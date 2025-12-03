@@ -46,7 +46,7 @@ No terminal, o fluxo de execução será:
 04. Por fim, o resultado da soma será exibido, por exemplo: O resultado da soma é 45
 
 <p align="center">
-  <img src="https://iili.io/fzVltLu.png" alt="Universidade Católica de Brasília">
+  <img src="https://iili.io/fzVltLu.png" alt="Representação de terminal">
 </p>
 
 #### 🛠️ Tecnologias utilizadas:
