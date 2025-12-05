@@ -2,15 +2,17 @@
   <img src="https://iili.io/fzGmfBS.png" alt="Emily Keren">
 </p>
 
-## PROJETO PESSOAL - Calculadora Simples de Soma (Python 🐍):
+## 🚀 PROJETO PESSOAL - Coleção de Fundamentos em Python 🐍
 
 #### 📖 Descrição:
-Projeto pessoal focado na **coleta e processamento de dados numéricos inteiros** em Python.
+Este repositório é uma **coleção de exercícios e scripts** focados na consolidação dos **fundamentos da linguagem Python**, seguindo rigorosamente as diretrizes da **PEP 8** para boas práticas de código.
 
-A aplicação solicita **três valores** inteiros ao usuário através da função `input()`. Em seguida, realiza a **operação de soma** e exibe o resultado final formatado com uma *f-string*.
+O projeto está estruturado em **módulos temáticos** (packages) para demonstrar a aplicação prática de conceitos essenciais, como:
 
-Este projeto faz parte do meu processo de aprendizado de Python para Engenharia e Ciência de Dados, com foco na **conversão de tipos de dados** (`int()`) e em operações aritméticas básicas.
-
+* **Estruturas Condicionais:** Uso de `if`, `elif`, e `else` para tomada de decisão.
+* **Operadores Aritméticos e Lógicos:** Implementação de cálculos e comparações.
+* **Manipulação de Variáveis e Strings:** Conversão de tipos (`int()`, `float()`), e uso de métodos de string (`.strip()`, `.lower()`, `.upper()`, `.replace()`).
+* **Entrada e Saída de Dados (I/O):** Coleta de dados com `input()` e exibição com `print()`.
 ---
 #### Métodos de execução:
 
@@ -33,9 +35,9 @@ Deve ser exibido uma mensagem informando algo como: "Python 3.11.5". Isso repres
 ```bash
 python -m pip install --upgrade pip  
 ```
-✅ Feito isso, apenas faça um clone do projeto em sua máquina; abra na IDE que melhor preferir e execute no botão play (▶️) a aplicação.
+✅ Feito isso, apenas faça um clone do projeto em sua máquina; abra na IDE que melhor preferir e execute o arquivo desejado (ex: variaveis/conversor_maiusculo.py).
 
-No terminal, o fluxo de execução será:
+No terminal, o fluxo de execução dependerá do script escolhido e das entradas fornecidas, exemplo:
 
 01. O script solicitará o primeiro valor: Digite o primeiro valor:
 
